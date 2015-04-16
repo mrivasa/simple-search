@@ -11,3 +11,4 @@ Disclaimer
 
 1. The purpose of this plugin is to add a very simple search for a table.  If you are looking for something more sofisticated try http://www.datatables.net/
 2. The plugin uses bootstrap css classes for formating and positioning.  If bootstrap is not available in your page, you will have to create your own css for the textbox, reset button and the div where these two elements are wraped.
+3. This plugin is a work in progress, please feel free to clone, fork it, submit change requests etc.
